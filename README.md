@@ -1,6 +1,6 @@
 # 헬피챗 딥리서치 레포트 예시 모음
 
-[엘리스 헬피챗 딥리서치](https://elice.io/ko/learning/ai-helpy-chat) 기능으로 생성한 레포트 예시를 모아둔 저장소입니다.
+[엘리스 헬피챗](https://elice.io/ko/learning/ai-helpy-chat) 딥리서치 기능으로 생성한 레포트 예시를 모아둔 저장소입니다.
 
 ## 레포트 목록
 
